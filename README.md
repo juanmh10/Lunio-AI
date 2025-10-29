@@ -1,12 +1,6 @@
-<div align="center">
+![Lunio Glass UI](support/Lunio_page.png)
 
-  <img src="support/Lunio_page.png" alt="Lunio Glass UI — 2481x1198" width="75%" />
-
-  <br/>
-
-  <img src="support/lunio%20diagram.jpg" alt="Lunio on GCP — 1072x738" width="65%" />
-
-</div>
+![Lunio on GCP](<support/lunio diagram.jpg>)
 
 # Lunio Glass
 
